@@ -1,3 +1,6 @@
+### NOTE: there is a branch service-layer that adds a service layer using Spring services
+
+
 # spring-boot-exchange-example
 
 ## Install
