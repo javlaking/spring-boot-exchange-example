@@ -1,7 +1,4 @@
-### NOTE: there is a branch service-layer that adds a service layer using Spring services
-
-
-# spring-boot-exchange-example
+### NOTE: there is a branch service-layer that adds a service layer using Spring services and which exposes conservation functionality
 
 ## Install
 # Eclipse -> run build -> maven install 
